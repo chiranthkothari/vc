@@ -50,10 +50,10 @@ h5{
     vertical-align: middle;
     text-align: center;
 }
-h4{
+h6{
     position: fixed;
     top: 2px;
-    right: 5px;
+    right: 2px;
     color: red;
 }
 
