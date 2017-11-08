@@ -1,3 +1,5 @@
+alert("Use device in landscape mode for better usage of this app. Scroll down for RESET button");
+
 function bus1(){
     var a= Number(document.getElementById('bus1').textContent);
     a++;
