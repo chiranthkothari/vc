@@ -57,3 +57,16 @@ function oth2(){
     a++;
     document.getElementById('oth2').innerHTML= a;
 }
+
+function reset(){
+    document.getElementById('bus1').innerHTML= 0;
+    document.getElementById('bus2').innerHTML= 0;
+    document.getElementById('car1').innerHTML= 0;
+    document.getElementById('car2').innerHTML= 0;
+    document.getElementById('rick1').innerHTML= 0;
+    document.getElementById('rick2').innerHTML= 0;
+    document.getElementById('bike1').innerHTML= 0;
+    document.getElementById('bike2').innerHTML= 0;
+    document.getElementById('oth1').innerHTML= 0;
+    document.getElementById('oth2').innerHTML= 0;
+}
